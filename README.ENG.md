@@ -1,6 +1,6 @@
 # Introduction
 
-Based on the proposal of [v2fly/domain-list-community#256](https://github.com/v2fly/domain-list-community/issues/256), refactor [v2fly/domain-list-community](https: //github.com/v2fly/domain-list-community) and add new features.
+Based on the proposal of [v2fly/domain-list-community#256](https://github.com/v2fly/domain-list-community/issues/256), refactor [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) and add new features.
 
 ## Differences from the official `dlc.dat`
 
@@ -11,7 +11,7 @@ Based on the proposal of [v2fly/domain-list-community#256](https://github.com/v2
 
 ## download link
 
-[https://github.com/Loyalsoldier/domain-list-custom/releases/latest/download/geosite.dat](https://github.com/Loyalsoldier/domain-list-custom/releases/latest/download/ geosite.dat)
+[https://github.com/Loyalsoldier/domain-list-custom/releases/latest/download/geosite.dat](https://github.com/Loyalsoldier/domain-list-custom/releases/latest/download/geosite.dat)
 
 ## Projects using this project
 
